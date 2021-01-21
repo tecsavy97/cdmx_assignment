@@ -1,0 +1,7 @@
+appPort=":5000"
+accessLogPath="./logs/cdmx_access.log"
+logPath="logs/cdmx.log"
+emailConfPath="./config/emailConf.json"
+publicKey="af7054fcf865334a34ee0da1d00c2709"
+secretKey="661e76132bbc9ac5906b39c6c812bd2e"
+host="in-v3.mailjet.com"

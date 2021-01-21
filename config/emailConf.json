@@ -1,0 +1,7 @@
+{
+  "hostName": "MailJet",
+  "server": "in-v3.mailjet.com",
+  "port": 587,
+  "username": "",
+  "password": ""
+}
