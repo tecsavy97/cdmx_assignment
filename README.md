@@ -104,7 +104,7 @@ It will return success if the emails are sent or it will give error if any issue
 
 ## [Middleware Logging](#middleware-logging)
     1. For Logging I have used two different loggers 
-       a. Gin Default Logger (i.e Access Loggin)
+       a. Gin Default Logger (i.e Access Logging)
        b. Custom Sugar Logging (i.e Data Logging) 
     
     2. The reason that I have used two different loggers as I want to clearly display the routes consumed of the server and also clearly observe the necessary data if any API fails.
